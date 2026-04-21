@@ -5,7 +5,7 @@ import time
 from streamlit_option_menu import option_menu
 
 # Set page configuration
-st.set_page_config(page_title="MEDCHECK",
+st.set_page_config(page_title="MULTIPLE DISEASE PREDICTION",
                    layout="wide",
                    page_icon="🧑‍⚕️"
                    
